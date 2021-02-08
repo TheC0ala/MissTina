@@ -27,7 +27,7 @@ def escape_html(word):
     return escape(word)
 
 PM_START_TEXT = """
-Hello *{}* My name is *MissTina*!
+Salam *{}* bratva Mənim adım *Cart*!
 
 I'm here to manage your groups! 
 
