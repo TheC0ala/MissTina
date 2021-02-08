@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/CyberBoyAyush/MissTina",
+  "repository": "https://github.com/thec0ala/misstina",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
