@@ -1,5 +1,5 @@
 {
-  "name": "Miss Tina",
+  "name": "Cart",
   "description": "Advanced Group Modular bot for Telegram",
   "keywords": [
     "telegram",
@@ -71,7 +71,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "9.5"
+        "version": "13"
       }
     }
   ]
